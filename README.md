@@ -1,5 +1,4 @@
-# unity-demo-game
-
+Unity 2D Arcade Shooter Game
 ![endless standoff](https://user-images.githubusercontent.com/74188001/117112221-687fc800-ad91-11eb-9fe2-28a2987dc0f9.png)
 
 
