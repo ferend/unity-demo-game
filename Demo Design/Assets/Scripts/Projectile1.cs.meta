@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 81a430f553efccc44879f27185ab1781
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectile: {instanceID: 0}
+  - enemyProjectile: {instanceID: 0}
+  - Score: {instanceID: 0}
+  - ExpAnimator: {fileID: 8403445131991673120, guid: 057664b87ba35bf4989312542dcb6efe,
+      type: 3}
+  - destroySound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
