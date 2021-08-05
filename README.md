@@ -7,6 +7,6 @@ My first ever video game that I created using C# and Unity Engine.
 
 It is an MVP project where I tried to show my learnings and skills I get from the Unity Essentials program for Unity Students. 
 
-You can check out the game from the following link: https://play.unity.com/mg/other/mis-498-microgame
+You can check out the game from the following link:
 
 
